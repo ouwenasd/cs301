@@ -7,6 +7,8 @@ public class Test {
 		//new feature
 		
 		// NEW FEATURE 2
+		
+		// NEW FEATURE 4
 	}
 
 }
