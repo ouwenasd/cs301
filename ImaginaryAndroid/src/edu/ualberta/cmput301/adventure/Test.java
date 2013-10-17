@@ -5,6 +5,8 @@ public class Test {
 	public Test() {
 		
 		//new feature
+		
+		// NEW FEATURE 2
 	}
 
 }
