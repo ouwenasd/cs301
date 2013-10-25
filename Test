@@ -1,1 +1,7 @@
-Test
+UC-1: Create Story|
+---
+<b>Actors</b>: Author<br>|
+<b>Goal</b>: To create a new story.<br>|
+<b>Trigger</b>: The Author selects the 'Create Story' option.<br>|
+<b>Preconditions</b>: None<br>|
+<b>Postconditions</b>: On success, a new story has been created, and UC-2 (Edit Story) has begun.<br>|
